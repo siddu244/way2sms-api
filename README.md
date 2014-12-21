@@ -4,6 +4,7 @@ way2sms-api
 simple api for way2sms.com
 
 1. First register to way2sms.com website by going to http://site21.way2sms.com/content/index.html
+
 2. use the username and password obtained here to send message
 
 To integrate it to your website :
