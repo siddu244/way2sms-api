@@ -1,7 +1,0 @@
-<?php
-	require "way2sms-api.php";
-
-	sendmsg('9900970842','9980720959','9900970842','name');
-	echo "WAIT FOR 3 sec and check your phone!!!".'<br>'.'.'.'<br>'.'.'.'<br>'.'.'.'<br>';
-	echo "Success...";
-?>
